@@ -5,6 +5,11 @@
 
 ---
 
+Fun tool for creating .gitignore files, example result in this repo .giignore file:
+[gitignore link](https://www.gitignore.io/)
+
+---
+
 Better windows command line interface with built-in support for git:
 [cmder link](http://cmder.net)
 
